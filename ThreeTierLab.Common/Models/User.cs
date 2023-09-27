@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ThreeTierLab.Common.Models
+﻿namespace ThreeTierLab.Common.Models
 {
     public partial class User
     {
